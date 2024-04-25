@@ -1,7 +1,7 @@
-#Repositorio de Miguel Briceño+
+Repositorio de Miguel Briceño+
 ![Imagen de Portada](img/yo.png)
 
-###¡Hola! 👋 Miguel Briceño, un entusiasta desarrollador web en formación y estudiante del ciclo de formación profesional de Desarrollo de Aplicaciones Web (DAW). Actualmente estoy avanzando en el primer año de mi programa de estudios, explorando las maravillas del desarrollo web y aprendiendo nuevas tecnologías y técnicas cada día.
+¡Hola! 👋 Miguel Briceño, un entusiasta desarrollador web en formación y estudiante del ciclo de formación profesional de Desarrollo de Aplicaciones Web (DAW). Actualmente estoy avanzando en el primer año de mi programa de estudios, explorando las maravillas del desarrollo web y aprendiendo nuevas tecnologías y técnicas cada día.
 
 Aunque aún estoy en proceso de formación, mi pasión por el desarrollo web y mi compromiso con el aprendizaje continuo me impulsan a buscar oportunidades para crecer y contribuir al mundo profesional. Estoy abierto a recibir ofertas de trabajo, pasantías o proyectos que me permitan aplicar mis conocimientos y habilidades en un entorno real y seguir desarrollándome como profesional.
 
